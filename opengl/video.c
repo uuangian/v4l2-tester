@@ -59,7 +59,7 @@ struct buf_info{
 	unsigned int length;
 	char *start;
 };
-
+  
 #define CAPTURE_MAX_BUFFER		5
 
 /* device to be used for capture */
